@@ -1,1 +1,2 @@
 # InteractiveRebase
+# Something is wrong!
